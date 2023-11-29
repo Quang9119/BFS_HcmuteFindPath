@@ -1,0 +1,6 @@
+fastapi
+pandas
+plotly
+pydantic
+scipy
+uvicorn
